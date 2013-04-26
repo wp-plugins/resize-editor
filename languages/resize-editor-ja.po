@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: resize-editor\n"
+"POT-Creation-Date: 2013-04-25 15:50+0900\n"
+"PO-Revision-Date: 2013-04-25 15:50+0900\n"
+"Last-Translator: \n"
+"Language-Team: Hiroshi Sawai <info@findxfine.com>\n"
+"Language: japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Applications/XAMPP/xamppfiles/htdocs/github/wordpress\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: wp-content/plugins/resize-editor\n"
+
+#: wp-content/plugins/resize-editor/resize_edit.php:121
+msgid "You do not have sufficient permissions to access this page"
+msgstr "本ページにアクセスする権限がありません。"
+
+#: wp-content/plugins/resize-editor/resize_edit.php:139
+msgid "Can not open file"
+msgstr "ファイルを開くことができませんでした。"
+
+#: wp-content/plugins/resize-editor/resize_edit.php:160
+msgid "Empty or 0 reset existing value"
+msgstr "空もしくは0で「変更の保存」を行うと既存の値をリセットします。"
+
+#: wp-content/plugins/resize-editor/resize_edit.php:162
+msgid "Save changes"
+msgstr "変更の保存"
