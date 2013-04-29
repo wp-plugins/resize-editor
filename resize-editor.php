@@ -7,7 +7,7 @@ Text Domain: resize-editor
 Domain Path: /languages/
 Author: Hiroshi Sawai
 Author URI: http://www.findxfine.com
-Version: 1.0.1
+Version: 1.0.2
 */
 
 /*  Copyright 2013  Hiroshi Sawai (email : info@info-town.jp)

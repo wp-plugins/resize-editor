@@ -27,6 +27,9 @@ Resize post editor width.
 
 == Changelog ==
 
+= 1.0.2 =
+* Improve instalation of readme.txt
+
 = 1.0.1 =
 * Fix width value is reset by mistake
 
