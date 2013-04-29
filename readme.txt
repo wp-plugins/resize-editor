@@ -16,7 +16,6 @@ Resize post editor width.
 
 == Installation ==
 
-
 1. Upload `resize-editor` directory to the `/wp-content/plugins/`
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
@@ -27,6 +26,9 @@ Resize post editor width.
 
 
 == Changelog ==
+
+= 1.0.2 =
+* Improve instalation of readme.txt
 
 = 1.0.1 =
 * Fix width value is reset by mistake
