@@ -1,9 +1,9 @@
 === Plugin Name ===
 Contributors: s-hiroshi
 Tags: editor
-Requires at least: 3.5.1
-Tested up to: 3.5.1
-Stable tag: 1.0.4
+Requires at least: 4.2.4
+Tested up to: 4.2.4
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,9 @@ Resize post editor width.
 
 == Changelog ==
 
+= 1.1.0 =
+* Improve security and test up 4.2.4
+
 = 1.0.4 =
 * Improve instalation of readme.txt
 
@@ -47,4 +50,4 @@ Resize post editor width.
 
 == Arbitrary section ==
 
-投稿エディタ横幅を指定サイズで表示する。
+投稿エディタ横幅を指定サイズで表示します。
