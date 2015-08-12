@@ -27,6 +27,9 @@ Resize post editor width.
 
 == Changelog ==
 
+= 1.1.0 =
+* Improve security and test up 4.2.4
+
 = 1.0.4 =
 * Improve instalation of readme.txt
 
@@ -47,4 +50,4 @@ Resize post editor width.
 
 == Arbitrary section ==
 
-投稿エディタ横幅を指定サイズで表示する。
+投稿エディタ横幅を指定サイズで表示します。
